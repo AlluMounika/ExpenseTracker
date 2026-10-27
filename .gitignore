@@ -1,0 +1,23 @@
+
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.hmap
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/
+
+# CocoaPods
+# Keep the Podfile and Podfile.lock tracked.
+# Ignore Pods/ only if your project workflow permits it.
+# Pods/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example

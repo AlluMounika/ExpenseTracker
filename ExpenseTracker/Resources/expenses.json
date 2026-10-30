@@ -1,0 +1,10 @@
+[
+  { "date": "2026-10-01", "restaurantName": "Olive Garden", "amount": 42.50 },
+  { "date": "2026-10-04", "restaurantName": "Chipotle", "amount": 13.75 },
+  { "date": "2026-10-08", "restaurantName": "The Cheesecake Factory", "amount": 68.20 },
+  { "date": "2026-10-12", "restaurantName": "Starbucks", "amount": 6.45 },
+  { "date": "2026-10-15", "restaurantName": "Panera Bread", "amount": 18.90 },
+  { "date": "2026-10-19", "restaurantName": "Shake Shack", "amount": 22.30 },
+  { "date": "2026-10-23", "restaurantName": "Sushi Zen", "amount": 54.00 },
+  { "date": "2026-10-26", "restaurantName": "Taco Bell", "amount": 9.80 }
+]
